@@ -1,2 +1,2 @@
 # MavoSEProject
-Creating 3D Models in JavaScript
+Creating 3D Models in Java
